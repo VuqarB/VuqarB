@@ -1,14 +1,14 @@
-![standard (2)](https://user-images.githubusercontent.com/92165223/172052682-408c712b-9e95-4968-a3ea-9d95a34b2490.gif)
+<img align="center" alt="Coding" height="125" width="100%" src="https://user-images.githubusercontent.com/92165223/172052682-408c712b-9e95-4968-a3ea-9d95a34b2490.gif">
 
 <h1 align="center">Hi 👋, I'm Vugar Balakishiyev</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **tu201906231@code.edu.az**
 
-- 📄 Know about my CV [file:///C:/Users/VUQAR/Desktop/Beige%20And%20Brown%20Modern%20Simple%20Professional%20Resume%20Template%20(2)%20(1).pdf](file:///C:/Users/VUQAR/Desktop/Beige%20And%20Brown%20Modern%20Simple%20Professional%20Resume%20Template%20(2)%20(1).pdf)
+- 📄 Know about my <a href="https://drive.google.com/file/d/1VRTp_vl_sOfum49KrDR3rzQi6NbKOXsI/view?usp=sharing" target="_blank" align="center">CV</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
