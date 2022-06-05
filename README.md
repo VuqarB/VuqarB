@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tu201906231@code.edu.az**
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1VRTp_vl_sOfum49KrDR3rzQi6NbKOXsI/view?usp=sharing" target="_blank" align="center">CV</a> 
+- 📄 Know about my <a href="https://drive.google.com/file/d/1VRTp_vl_sOfum49KrDR3rzQi6NbKOXsI/view?usp=sharing" align="center">CV</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
